@@ -3,10 +3,10 @@ if hungry=="yes":
     print ("eat samosa")
     print ("eat piza")
 <<<<<<< HEAD
-    print ("eat burger1")
+    print ("eat burger")
 =======
 else:
     thursty = input("are you thursty ? ")
     if thursty=="yes":
-       print ("drink water1")    
+       print ("drink water")    
 >>>>>>> thursty
