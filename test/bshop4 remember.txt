@@ -1,0 +1,475 @@
+jm@thewebclinic.co.uk
+am@thewebclinic.co.uk
+chris@scootamart.com
+bury@scootamart.com
+
+
+
+
+FASTHOSTS ACCOUNT DETAILS: 213 server
+========================
+Your Account - uk1507225645
+URL        : https://login.fasthosts.co.uk/
+EMAIL   : am@thewebclinic.co.uk
+PASS      : clinic321!
+ 
+plan: s428410594.onlinehome.info
+
+ftp   server name given in 1&1 (backup433.onlinehome-server.info)
+ftp user name     :      bak6501325
+New ftp password  :      V7%@mLSoJBI44j
+
+
+1&1 Control Panel : 41 and 121 server
+=============================
+URL        : https://admin.1and1.co.uk
+Account number: 186060825
+automatically assigned
+password: Y-ttvcArJ=#4T2Hx
+
+f1&1
+support PIN : 890751
+
+
+
+order email changes
+http://discount-mobility.co.uk/testings/copy_customers/order_email_changes/change.php
+
+1.replace the email ids in 3 tables
+  orders,order_delivery_data,order_emails
+2.take file name from order emails tabl
+3.download files from images/sitefolder/email_messages
+4.modify the downloaded files and upload it to /testings/copy_customers/order_email_changes/
+5.download and change the file from /testings/copy_customers/order_email_changes/change.php 
+6.run the file /testings/copy_customers/order_email_changes/change.php
+7.rename copy_customers 
+
+Database details
+https://213.171.205.3:8443
+Username : admin
+Passwd  :  admin-Tre#nC42taqcqR-ad
+
+Database details 41 server
+82.165.11.41
+URL - https://82.165.11.41:8443
+Plesk password
+admin
+_bTV8*Lxe7SjsS4DAf
+
+support@thewebclinic.co.uk => $rHD#E#hs18!7
+
+*****Can you export the order notes ??
+
+
+do you remember the steps for it ?
+From:Sony Joy1. 
+go to testings/copy_customers/discountmobility_note_sales/
+2. download the file generate_notes.php
+3. open this file in editor and change the value of the variable "filename" to match the month name to that of the previous month
+4. In the first sql change the dates so that it contain the first day  and last day of the previous monthFrom:Sony Joy
+5. upload the file and run it via browserFrom:Sony Joythe output csv file will be created in the same folderThis message was editedFrom:Sony Joy
+
+
+
+
+sony.joy@thewebclinic.co.uk
+sony1357
+
+http://kentishhomecare.co.uk ftp
+IP: 82.165.11.41  | user: userftp  |  97wDpiKGs_qjoa1s
+
+
+http://flexi-sites.co.uk/flexi4superadmin/
+U: admin@bshop4.co.uk
+P: N0k1AuVj
+
+for flexi the db will be under flexi-sites.co.uk domain
+http://demo1.flexi-sites.co.uk/
+
+ftp 
+http://demo1.flexi-sites.co.uk/
+flexi_programmer
+pV7jx4_3
+
+FTP for the flexi 
+
+
+
+propertyuk sample
+
+https://www.signable.co.uk/how-it-works
+
+landlordvision.co.uk
+user: am@unipad.co.uk
+pass: just4mistta
+
+Test login
+https://www.landlordvision.co.uk/index/login-form/loggedDueToInactivity/1/
+sony.joy@calpinetech.com
+sony456
+
+https://www.arthuronline.co.uk
+sony.joy@calpinetech.com
+sony456
+https://www.arthuronline.co.uk/knowledgebase_category/getting-started/
+
+
+import_customers
+ 
+Blog
+ftp pass
+==========
+Host: 87.106.34.121
+Username: juracoffeemachin
+Pass: Lr1fx90!
+
+database
+=========
+
+Database name :admin_jura
+User name : juracoffeemachin
+pass: tOsn24!7
+
+
+Jura details
+admin user -juraadmin123
+password    -jura@AdMin@12#3
+
+
+the dincwear sagepay login details are:
+
+
+Login details
+
+vendor name : dincwear
+
+Username : Plysaght
+
+pasword : amy9josh19
+
+
+Local flexi site 
+http://flexisuperadmin.net/
+kentish.flexi.net
+
+Local Ftp 
+
+FTP Details
+===========
+Host: 192.168.8.231
+Username: ftpuser
+pass: calpine*123
+Port: 22
+
+https://www.sendinblue.com/users/login/
+am@thewebclinic.co.uk
+cL1n1c@9078
+
+http://192.168.3.251/    //calpinemate
+CA0510
+calpine
+
+http://flexisuperadmin.net/
+ 	kentish.flexi.net 
+
+http://webmail.thewebclinic.co.uk/login.php
+latheesh.george@thewebclinic.co.uk
+pass --- Ii5i9@1b
+
+latheesh.george@thewebclinic.co.uk |                                Ii5i9@1b
+
+ sony.joy@thewebclinic.co.uk |     |                             Qbn@939k
+
+
+support@thewebclinic.co.uk |     |                        $rHD#E#hs18!7
+
+calpinemate
+https://182.76.114.3:8443/proxy/0eed2fef/http/192.168.6.234/
+http://task.bfirst.uk.com/projectmanager/my_view_page.php
+latheesh
+calpine
+scp -rvp latheesh@192.168.4.120:/home/latheesh/backup_file.sql .and when it prompts for password, use: george@123
+
+14.140.176.131:10443 new one
+103.214.235.216 is by manu phase2
+
+
+Bshop v4 Super admin access url: https://www.bsecured.co.uk/bshop4superadmin/
+
+U: admin@bshop4.co.uk
+
+P: cUpw0r1d@uVjB  
+bshop3 -lancasterislamic
+admin@b-shop.co.uk 
+cUpw0r1d@3uvjB
+e-rent
+82.165.11.41 | erentftp | Nzq90?5fTmdWqqgw
+
+admin@e-rent.co.uk
+cUpw0r1d@uVjB
+
+
+
+bshop mail id 
+
+
+bshop@calpinetech.com  |    bshop@calpine*123A
+
+https://www.landlordvision.co.uk/
+sony.joy@thewebclinic.co.uk
+Web2020_504060
+
+Phase 2 VPN
+14.140.176.131  |  port: 10443
+103.214.235.216 new one
+
+https://web01vpn1ssl.uvjtech.org:8443/remote/login?lang=en
+
+bshop local
+demo1.localbshop4.co.uk
+http://demo1.localbshop4.co.uk/bshop4superadmin/
+
+
+
+e-rent local 
+************************************************************
+Super admin
+http://propertyadmin.local.net/
+admin@admin.com
+admin
+
+console area
+
+http://demo1.propertyuk.local.net/console/
+admin@admin.com
+admin
+
+database
+http://dbadmin.arys.net/
+root
+calpine*123
+
+./DOCKER_SCRIPT.sh
+
+ HELLO LATHEESH.
+.
+ PLEASE SELECT THE OPTION  
+=====================================================
+ START CONTAINER SERVICES   -    1 
+ STOP CONTAINER SERVICES    -    2 
+PLEASE SELECT THE OPTION: 
+1 for starting 2 for stoping
+
+my local machine details
+$dbhost  			= '127.0.0.1';
+$dbuname 			= 'root';
+$dbpass  			= 'calpine*123';
+
+
+
+mysql section
+sudo su
+docker ps
+ls
+cd /var/www/html/
+ls
+mysql -u root -p
+show databases;
+
+
+
+bshop52021@gmail.com
+bshop123
+
+
+figma  for design draft
+https://www.figma.com/
+
+accounts@afargroup.co.uk | hs@4VCu7pOn1iihy
+am@afargroup.co.uk | f6jkY%i2g7ruNsLu
+
+dig unipad.co.uk mx
+ping mail.unipad.co.uk
+
+Adobe acrobat login
+
+The login is 
+accounts@afargroup.co.uk
+Pass: Calpine2021
+
+https://www.youtube.com/watch?v=__SRXe4r9Ng
+https://www.youtube.com/watch?v=L-YX7s50FDE
+
+https://www.youtube.com/watch?v=odZtHXxbxU0 signature
+
+
+compress jpeg
+https://compressjpeg.com/
+
+
+You can login yourself to google webmaster tools.
+
+Username : seo.unipad@gmail.com
+Password: Just4M15tta
+
+
+
+fastseller account 
+The login is
+
+am@unipad.co.uk
+Password: Calpine2021
+
+cache policy 
+https://gtmetrix.com/serve-static-assets-with-an-efficient-cache-policy.html
+
+https://webmail.livemail.co.uk/?_task=mail&_mbox=INBOX
+
+
+New password for thewebclinic id
+Domains@ password: C@tL!tT3r
+Support@ password : $3@S0n@l
+Sony.joy@ password : P7@y$tAt!0N
+Latheesh.george@ password : Tr@!n$p0tt1nG
+
+
+Incoming mail: mail.livemail.co.uk
+
+Outgoing: smtp.livemail.co.uk
+
+POP 3 Port : 995
+IMAP Port: 993
+Outgoing port for IMAP: 587
+Encryption: SSL
+Encryption connection: TLS
+
+Main control pannel
+3BWVWAhJDYDj7shT Fasthosts login password
+
+
+
+
+https://www.whatsmydns.net/
+https://www.whois.com/
+
+
+
+https://www.fasthosts.co.uk/login
+
+Username:  latheesh.george@thewebclinic.co.uk
+
+Password:  cf67p82tKEeXxJa
+
+ 
+Old server IP
+*****************************************
+213.171.205.3
+82.165.11.41
+87.106.34.121
+
+
+
+ 
+
+latheesh@seo-northwest.co.uk
+C!M!C7zyj
+ 
+ 
+support@seo-northwest.co.uk
+B!N!C7zyh
+ 
+ 
+They both have 1GB storage each but it will be best if you add them to your mail client as POP3 and leave a copy on the server for 100 days
+ 
+Settings that i use are:
+incoming mail server:  mail.seo-northwest.co.uk
+Outgoing mail server: mail.seo-northwest.co.uk
+ 
+ 
+Advanced settings for outlook are:
+Port settings:
+My outgoing server requires SMTP, use the same settings as my incomming mail server.
+Incoming server (POP3) 110
+Outgoing server SMTP: 587 No Encryption
+ 
+ 
+ 
+Webmail can also be reached on http://webmail.ssl.extendcp.co.uk/
+
+https://www.outitgoes.com/
+
+John Created the account for me fasthost reseller admin
+latheesh@seo-northwest.co.uk
+
+Password: L@th335H2021
+
+https://www.whois.com/   //to know the about the ip
+
+3)OPENSRS (.com,.net,.org domains)
+ ========
+URL : http://resellers.opensrs.net   - registered domains .com,.net,.org
+USER : mrnet
+Password  : 3BWVWAhJDYDj7shT
+
+
+The new login details for the Open STS Account are:
+U/n   mrnet
+P/W.    L@th335H2021?
+
+MAIL ID:  domains@bfirst.uk.com |  uD2p~m79 
+
+Note: Domian transfers related confirmation mail will be received in : domains@thewebclinic.co.uk
+
+
+
+/********************Password for domains@seo-northwest.co.uk
+I have updated the contact details in OPEN SRS to domains@seo-northwest.co.uk
+This is the password to setup the email account as a POP3:   H3ll0W0r1D
+
+
+ssl vpn
+https://hadler.me/linux/forticlient-sslvpn-deb-packages/
+
+
+http://task.bshop5.co.uk/my_view_page.php
+latheesh | 7dnNZzja9RGaKLhC
+
+johnmuir  | 8dnNZzja9RGaKLhC
+
+designer  | 9dnNZzja9RGaKLhC
+
+Super user Login details are as follows;
+
+ ===
+Administrator | GkJcQ3Qd7VPYXkeN12@
+ ===
+
+For setup of Mantis, we required to create a new account in Fasthost reseller and details of the same is also included here for future reference;
+
+===
+
+Domain account: task.bshop5.co.uk
+
+DATABASE
+==========
+
+mantis_db |  mantis_db_user | 5RgczbmeyCu9ATkR
+
+FTP DETAILS
+=============
+Host: 213.171193.5  | User Name: task.bshop5.co.uk | pass: 8t52TG53GGS2r5rC
+
+SSH ACCESS
+============
+Host: 77.68.64.22 | user: < not ready > | pass: pC2pfhYeVQBj2yZK
+===
+
+Master FTP
+Host name 
+213.171.193.5
+
+Username
+GlobalSEONW
+
+Password
+N3wftpSEONorthwest2021@
